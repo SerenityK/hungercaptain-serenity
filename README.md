@@ -17,7 +17,7 @@ Check out [API LIVE DEMO](https://hungercap-backend1.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/ShemiahA/hungercaptain.git
+1. Git Clone https://github.com/SerenityK/hungercaptain-serenity
 
 ```
 
