@@ -5,8 +5,8 @@ This is an online food menu service for HungerCaptain restaurants. These days, w
 
 ```
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://hungercaptainfrontend.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://hungercaptainbackend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://dashboard.heroku.com/apps/hungercap-frontend1) here!!
+Check out [API LIVE DEMO](https://hungercap-backend1.herokuapp.com/) here!!
 
 ## Tech used
 
